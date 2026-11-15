@@ -23,7 +23,7 @@ Interessado em **desenvolvimento fullstack** e **cibersegurança**, uso este esp
 | Projeto | O que é | Stack | Demo |
 | --- | --- | --- | --- |
 | [forno-e-afeto](https://github.com/Davi-FerBot/forno-e-afeto) | Landing page de uma padaria artesanal em Brasília — disciplina **DFE** da UCB | HTML, CSS, JavaScript | [ver site](https://davi-ferbot.github.io/forno-e-afeto/) |
-| [aulas-react](https://github.com/Davi-FerBot/aulas-react) | Experimentos e anotações das aulas de front-end com React e Tailwind | React, Vite, Tailwind CSS | — |
+
 
 ## 📈 Estatísticas
 
