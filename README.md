@@ -25,13 +25,4 @@ Interessado em **desenvolvimento fullstack** e **cibersegurança**, uso este esp
 | [forno-e-afeto](https://github.com/Davi-FerBot/forno-e-afeto) | Landing page de uma padaria artesanal em Brasília — disciplina **DFE** da UCB | HTML, CSS, JavaScript | [ver site](https://davi-ferbot.github.io/forno-e-afeto/) |
 
 
-## 📈 Estatísticas
-
-<p>
-  <img height="160" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=Davi-FerBot&show_icons=true&theme=transparent&hide_border=true&locale=pt-br" />
-  <img height="160" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-FerBot&layout=compact&theme=transparent&hide_border=true&locale=pt-br" />
-</p>
-
----
-
 <sub>Este repositório é o README do meu perfil no GitHub. Os projetos ficam fixados abaixo. 👇</sub>
